@@ -1,0 +1,11 @@
+name: RPG
+main: me.ctcs.rpg.RPG
+version: 0.01
+
+commands:
+    pyromancy:
+        description: Gives the player a pyromancy book.
+        usage: /pyromancy
+    staff:
+        description: Gives the player a staff.
+        usage: /staff
